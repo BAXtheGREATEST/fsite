@@ -29,3 +29,21 @@ button:hover {
 button:active {
   top: 1px;
 }
+.col1 {
+  float: left;
+  padding: 5px;
+  width: 480px;
+  border-radius: 10px;
+  background: #007E3E;
+  }
+.col2 {
+  float: right;
+  padding: 5px;
+  width: 200px;
+  border-radius: 10px;
+  background: #002E3E;
+  }
+.frontier {
+  margin: auto;
+  width: 720px;  
+  }
