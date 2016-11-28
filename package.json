@@ -1,0 +1,24 @@
+{
+  "name": "fsite",
+  "version": "1.0.0",
+  "description": "My first site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BAXtheGREATEST/fsite.git"
+  },
+  "author": "Vladislav \u001b[D\u001b[D\u001b[D\u001b[D\u001b[y\u001b[C\u001b[C\u001b[C\u001b[C\u001b[ Baksanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BAXtheGREATEST/fsite/issues"
+  },
+  "homepage": "https://github.com/BAXtheGREATEST/fsite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.11"
+  }
+}
