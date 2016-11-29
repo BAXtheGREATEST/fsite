@@ -21,3 +21,38 @@ button {
   background-position: 200% 0, 0 0, 0 0, 0 100%, 0 4px, 0 calc(100% - 4px);
   box-shadow: rgba(0,0,0,.5) 3px 10px 10px -10px;
 }
+
+.header-bottom {
+  width: 100%;
+  background: url(images/banner.jpg) no-repeat;
+  height: 100vh;
+}
+
+.frontier {
+  display: block;
+  margin: auto;
+  width: 720px;
+}
+
+.col1 {
+  display: block;
+  float: left;
+  background-color: #777674;
+  width: 450px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.col2 {
+  display: block;
+  float: right;
+  background-color: #234853;
+  width: 150px;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.logo {
+  float:left;
+  width:50%;
+}
